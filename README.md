@@ -1,3 +1,3 @@
-# my_hello_world
-This 'my_hello-world' includes my learning curve and every small and big milestones during my this venture. They may not be highly complex or even valuable at this 
-momemt however, over course of time you will see some cool code and pieces of software. Thank you for visiting my profile!
+# Kernighan-Lin
+
+A quick implementation in Python using an object model instead of an adjacency matrix of the Kernighan-Lin algorithm for graph partition.
